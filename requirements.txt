@@ -1,3 +1,5 @@
 rembg
 Pillow
 PyInstaller
+opencv-python
+matplotlib
